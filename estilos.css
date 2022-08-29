@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: url(esperanza.jpg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 10%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+a{
+    display: block;
+    width: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius:1px;
+    margin: 0px 500px;
+    padding: 35px 29px;
+    background-color: darkslategray;
+    color: #fff;
+    text-decoration: none;
+}
+
+#noBtn{
+    position: absolute;
+    background-color: darkslategray;
+    margin: -89px 80px;
+}
